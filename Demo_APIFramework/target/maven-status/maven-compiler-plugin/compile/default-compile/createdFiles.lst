@@ -1,0 +1,6 @@
+resources\apiResources.class
+pojo\BankDetails.class
+pojo\AdditionalInfo.class
+pojo\CreateBeneficiary.class
+pojo\Address.class
+pojo\Beneficiary.class
